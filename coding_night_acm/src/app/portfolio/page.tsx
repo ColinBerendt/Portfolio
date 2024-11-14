@@ -12,7 +12,11 @@ export default function portfolio()
           </div>
           <h1 className="text-4xl sm:text-6xl font-bold text-center text-black">Portfolio</h1>
           <ul className="text-xxl">
-            <li><h2 className="text-black font-bold">Portfolio Pictures brevvv</h2></li>
+          <div className="text-black font-bold mt-4">
+                    <Link href="https://github.com/ColinBerendt/Coding-Night" target="_blank">
+                        GitHub Repo
+                    </Link>
+                </div>
         </ul>
         </main>
       </div>
