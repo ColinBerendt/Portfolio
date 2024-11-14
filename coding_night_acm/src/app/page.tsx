@@ -16,14 +16,14 @@ export default function Home() {
         </ol>
       </main>
             
-      <div className="relative w-40 h-40 sm:w-32 sm:h-32">
-          <Image
-            src="/th.jpeg" // Dein Bildpfad
-            alt="Colin Berendt"
-            width={750} 
-            height={750} 
-          />
-        </div>
+      <div className="relative w-80 h-80 sm:w-64 sm:h-64">
+    <Image
+      src="/th.jpeg" // Dein Bildpfad
+      alt="Colin Berendt"
+      width={750} 
+      height={750} 
+    />
+</div>
         
     </div>
   );
