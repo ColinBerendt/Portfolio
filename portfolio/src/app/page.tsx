@@ -17,12 +17,6 @@ export default function Home() {
       </main>
             
       <div className="relative w-80 h-80 sm:w-64 sm:h-64">
-    <Image
-      src="/th.jpeg" // Dein Bildpfad
-      alt="Colin Berendt"
-      width={750} 
-      height={750} 
-    />
 </div>
         
     </div>
